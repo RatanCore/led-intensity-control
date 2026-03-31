@@ -18,7 +18,7 @@ A simple beginner Arduino project where I control the brightness of an LED using
 
 ## Code
 ```cpp
-// Paste your full code here
+
 const int potPin = A0;
 const int ledPin = 9;
 
